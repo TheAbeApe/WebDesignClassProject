@@ -1,0 +1,65 @@
+<!-- 
+TODO:
+a heading (done)
+a paragraph ( done) 
+a list (done)
+an image( Look for logo place holder ) 
+a main element (actually use the main semantic tags here)(done) 
+a header element that includes a comment with your name as such: (done) 
+a footer that includes your email address and the due date of the assignment ( done ) 
+-->
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head> 
+
+	<title> AbeApe's Recipes HomePage </title>
+	<meta chatset ="utf-8">
+
+</head>
+
+<body>
+	
+	
+	<header> 
+		<!-- Created by Abraham J. Duarte Perdomo -->
+		<!-- place logo here -->
+	</header>
+	
+	<nav> 
+		Home &nbsp; &nbsp;
+	
+		Discover &nbsp; &nbsp; 
+	
+		Recipes &nbsp; &nbsp;
+	
+		<!-- will add a search bar. This is a place holder --> 
+		Search 
+	</nav>
+	
+	<main> 
+	<!-- About information of page --> 
+	</main> 
+	
+	<p>
+	<!--  recipe 1 --> 
+	</p> 
+	<p>
+	<!--  recipe 2 --> 
+	</p>
+	<p>
+	<!--  recipe 3 --> 
+	</p>
+	<p>
+	<!--  recipe 4 --> 
+	</p>
+	
+	<footer> 
+		aduarteperdomo@student.clayton.edu $nbsp; $nbsp; 
+		Feb 5, 2023
+	</footer>
+	
+</body>
+
+</html>
