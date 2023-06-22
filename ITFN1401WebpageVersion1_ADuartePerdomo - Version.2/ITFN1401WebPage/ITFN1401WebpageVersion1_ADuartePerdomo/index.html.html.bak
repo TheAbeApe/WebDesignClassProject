@@ -1,0 +1,87 @@
+<!-- 
+TODO:
+a heading (done)
+a paragraph ( done) 
+a list (done)
+an image( Look for logo place holder ) 
+a main element (actually use the main semantic tags here)(done) 
+a header element that includes a comment with your name as such: (done) 
+a footer that includes your email address and the due date of the assignment ( done ) 
+-->
+<!DOCTYPE html>
+
+<html lang="en">
+
+
+<head> 
+
+	<title> AbeApe's Recipes HomePage </title>
+	<meta charset ="UTF-8">
+	
+
+</head>
+
+<body>
+	
+	
+	<header> 
+		<!-- Created by Abraham J. Duarte Perdomo -->
+		<!-- place logo here -->
+		<img src="images/logo.png" alt="PersonalLogo" height = "200" width = "200"> 
+	</header>
+	
+	<nav> 
+		Home &nbsp; &nbsp;
+	
+		Discover &nbsp; &nbsp; 
+	
+		Recipes &nbsp; &nbsp;
+	
+		<!-- will add a search bar. This is a place holder --> 
+		Search 
+	</nav>
+	
+	<main> 
+	<!-- About information of page --> 
+	<!-- will place this in a center square --> 
+	This is my personal recipe book of home-cooked food. The cuisines from my tradional Hondruan roots to all parts of the globe. 
+	The recipes here will be easy to make, have low cost, and be enjoyable to the entire family. 
+	<img src = "images/Eating.gif" alt = "Patrick Eating" height = "200" width = "250" > 
+	LETS GET STARTED
+	</main> 
+	
+	<p>
+	<!--  recipe 1 --> 
+	<!-- this will be top right square --> 
+	<img src ="images/Alfredo.jpg" alt = "AlfredoImage" height = "200" width = "200"> 
+	Fettucine Alfredo
+	
+	</p> 
+	<p>
+	<!--  recipe 2 --> 
+	<!-- bottom right sqaure --> 
+	<img src = "images/ChickenTaco.jpg" alt = "ChickenTacoImage" height = "200" width = "200"> 
+	Chicken Taco
+	</p>
+	<p>
+	<!--  recipe 3 --> 
+	<!-- top left square --> 
+	<img src = "images/Menudo.gif" alt = "MenudoImage" height = "200" width = "200"> 
+	Menudo Broth 
+	</p>
+	<p>
+	<!--  recipe 4 --> 
+	<!-- bottom left square --> 
+	<img src = "images/StreetCorn.png" alt = "StreetCornImage" height = "200" width = "200"> 
+	Street Corn on the Cob
+	</p>
+	
+	<footer> 
+		aduarteperdomo@student.clayton.edu 
+		&nbsp; &nbsp; 
+		Feb 5, 2023
+	</footer>
+	
+</body>
+
+</html>
